@@ -10,7 +10,7 @@ Use [paddle OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/READ
 - pillow >= 9.3.0
 
 ```python
-pip install requests=2.28.1
-pip install pyperclip=1.8.2
-pip install pillow=9.3.0
+pip install requests==2.28.1
+pip install pyperclip==1.8.2
+pip install pillow==9.3.0
 ```
