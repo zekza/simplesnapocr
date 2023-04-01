@@ -3,7 +3,7 @@ A simple OCR script for windows &amp; macOS
 
 Use [paddle OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/README_ch.md) as OCR backend
 
-# Requirements
+## Requirements
 - python >= 3.9 (my dev envirenment, didn't test other versions)
 - requests >= 2.28.1
 - pyperclip >= 1.8.2
