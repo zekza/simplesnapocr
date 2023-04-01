@@ -1,7 +1,7 @@
 # simpleocr
 A simple OCR script for windows &amp; macOS
 
-Use [paddle OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/README_ch.md) for OCR backend
+Use [paddle OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/README_ch.md) as OCR backend
 
 # Requirements
 - python >= 3.9 (my dev envirenment, didn't test other versions)
