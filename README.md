@@ -1,5 +1,5 @@
-# simpleocr
-A simple OCR script for windows &amp; macOS
+# simplesnapocr
+A simple SNAP & OCR script for windows &amp; macOS
 
 Use [paddle OCR](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.6/README_ch.md) as OCR backend
 
